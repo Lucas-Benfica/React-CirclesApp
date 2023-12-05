@@ -40,7 +40,7 @@
 
 Você também pode jogar online! Acesse o minigame através do link de deploy:
 
-[Link do Deploy](coloque-aqui-o-link-do-deploy)
+[Link do Deploy](https://react-circles-app.vercel.app/)
 
 ## Contato
 
