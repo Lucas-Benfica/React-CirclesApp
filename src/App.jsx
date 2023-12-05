@@ -8,7 +8,6 @@ function App() {
   function addCircle(event) {
     const { offsetX, offsetY } = event.nativeEvent;
 
-    // Verificar se o clique ocorreu dentro de um círculo existente
     const isInsideCircle = circles.some(
       (circle) =>
         offsetX >= circle.x - 10 &&
